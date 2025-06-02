@@ -138,12 +138,12 @@ const App = () => {
             <div className="imagesdiv relative overflow-hidden w-full h-screen">
               <img
                 className="sky rotate-[-20deg] absolute scale-[1.5] top-0 left-0 w-full h-full object-cover"
-                src="./public/sky.png"
+                src="/sky.png"
                 alt=""
               />
               <img
                 className=" absolute bg scale-[1.8] rotate-[-3deg] top-0 left-0  w-full h-full object-cover"
-                src="./public/bg.png"
+                src="/bg.png"
                 alt=""
               />
               <div className="text absolute text-white top-20 flex flex-col gap-3 left-1/2 -translate-x-1/2 scale-[1.4] rotate-[-10deg]">
@@ -153,7 +153,7 @@ const App = () => {
               </div>
               <img
                 className="absolute character rotate-[-20deg] scale-[2] -bottom-[150%]  left-1/2 -translate-x-1/2"
-                src="./public/girlbg.png"
+                src="/girlbg.png"
                 alt=""
               />
             </div>
@@ -164,7 +164,7 @@ const App = () => {
               </div>
               <img
                 className="absolute top-1/2 -translate-x-1/2 -translate-y-1/2 left-1/2 h-[55px]"
-                src="./public/ps5.png"
+                src="/ps5.png"
                 alt=""
               />
             </div>
