@@ -198,7 +198,7 @@ const App = () => {
                   life, untamed wilderness, and raw criminal underworlds.
                 </p>
                 <button className="bg-yellow-400 hover:bg-yellow-500 text-black font-bold py-4 px-8 text-2xl rounded-xl shadow-md transition-all mt-5 duration-300 ease-in-out">
-                  Learn More
+                  <a href="https://www.rockstargames.com/VI">Learn More</a>
                 </button>
               </div>
             </div>
