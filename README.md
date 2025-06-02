@@ -1,20 +1,27 @@
-GTA 6 - Landing Page Clone
-A visually engaging and responsive landing page inspired by Rockstar Games' Grand Theft Auto VI. This project showcases a modern web design using React, Tailwind CSS, and Vite.
+# 🎮 GTA 6 - Landing Page Clone
 
-🚀 Live Demo
-Check out the live version of the project here: Live Demo Link (Replace with your deployed URL)
+A visually stunning and responsive landing page inspired by Rockstar Games' **Grand Theft Auto VI**. Built with React, Tailwind CSS, and Vite to showcase modern web design skills.
 
-🛠️ Tech Stack
-React – For building the user interface
+## 🚀 Live Demo
 
-Tailwind CSS – For styling and responsive design
+👉 [Live Demo](https://your-deployed-site-link.com)  
 
-Vite – For fast and efficient development and build process
-GitHub
 
-📸 Features
-Responsive design compatible with various devices
+---
 
-Animated elements to enhance user experience
+## 🧪 Tech Stack
 
-Clean and organized code structure for scalability
+- ⚛️ React – JavaScript UI Library  
+- 🎨 Tailwind CSS – Utility-first CSS framework  
+- ⚡ Vite – Lightning-fast build tool  
+- ✌️ Gsap - For animations
+
+---
+
+## ✨ Features
+
+- ⚡ Sleek, modern UI inspired by GTA VI  
+- 🔥 Custom animated visuals  
+- 🧼 Clean, maintainable code  
+
+---
