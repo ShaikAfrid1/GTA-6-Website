@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "pricedown";
+  src: url("/public/pricedown\ bl.ttf");
+}
+@font-face {
+  font-family: "forque";
+  src: url("/public/Forque-1jE5B.ttf");
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "pricedown";
+}
+
+.hero-text {
+  font-family: "forque";
+}
